@@ -1,3 +1,4 @@
+aiosession
 flask
 flask_restful
 aiohttp
