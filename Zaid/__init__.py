@@ -12,7 +12,7 @@ clients = []
 ids = []
 
 SUDO_USERS.append(OWNER_ID)
-aiosession = ClientSession()
+aiobotocore.session import get_session
 
 if API_ID:
    API_ID = API_ID
